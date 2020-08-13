@@ -1,5 +1,5 @@
 # Meu primeiro README.md
-Olá, me chamo Ana Luísa e sou comumente conhecida como Analu.
+Olá, me chamo Ana Luísa e sou também conhecida como Analu.
 
 Meus hobbys:
 - Andar de bicicleta
