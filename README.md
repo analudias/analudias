@@ -1,4 +1,4 @@
-# analudias
+# Meu primeiro README
 Olá, me chamo Ana Luísa e sou comumente conhecida como Analu.
 
 Meus hobbys:
