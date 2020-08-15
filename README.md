@@ -21,9 +21,8 @@ Meus hobbys:
   - Primeiro: Master-System
   - Atual: PS4
   
-  Isso tudo acontece quando não estou codando!
+Isso tudo acontece quando não estou codando!
+Atualmente, estou aprendendo Java e programação mobile com cursos da Udemy.
   
-  Atualmente, estou aprendendo Java e programação mobile com cursos da Udemy.
-  
-  Para mais informações, fiquem a vontade para conectar no meu LinkedIn <3
-  linkedin.com/in/analudiastech
+Para mais informações, fiquem a vontade para conectar no meu LinkedIn!
+linkedin.com/in/analudiastech
