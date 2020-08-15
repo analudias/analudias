@@ -22,6 +22,6 @@ Meus hobbys:
   - Atual: PS4
   
 Isso tudo acontece quando não estou codando!
-Atualmente, estou aprendendo Java e programação mobile com cursos da Udemy.
+Atualmente, estou aprendendo [Java](https://www.udemy.com/course/java-curso-completo/) e [programação mobile](https://www.udemy.com/course/curso-completo-do-desenvolvedor-android/) com cursos da Udemy.
   
 Para mais informações, fiquem a vontade para conectar no meu [LinkedIn](https://www.linkedin.com/in/analudiastech/)!
