@@ -24,4 +24,4 @@ Meus hobbys:
 Isso tudo acontece quando não estou codando!
 Atualmente, estou aprendendo [Java](https://www.udemy.com/course/java-curso-completo/) e [programação mobile](https://www.udemy.com/course/curso-completo-do-desenvolvedor-android/) com cursos da Udemy.
   
-Para mais informações, fiquem a vontade para conectar no meu [LinkedIn](https://www.linkedin.com/in/analudiastech/)!
+Para mais informações, fiquem à vontade para conectar no meu [LinkedIn](https://www.linkedin.com/in/analudiastech/)!
