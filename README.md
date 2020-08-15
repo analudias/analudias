@@ -25,4 +25,4 @@ Isso tudo acontece quando não estou codando!
 Atualmente, estou aprendendo Java e programação mobile com cursos da Udemy.
   
 Para mais informações, fiquem a vontade para conectar no meu LinkedIn!
-linkedin.com/in/analudiastech
+(linkedin.com/in/analudiastech)
