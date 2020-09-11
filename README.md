@@ -3,7 +3,7 @@ For english version, [click here](https://github.com/analudias/analudias-en).
 
 Olá, me chamo Ana Luísa e sou também conhecida como Analu.
 
-Meus hobbys:
+Meus hobbies:
 - Andar de bicicleta
 - Caçar Pokémon
 - Andar de bicicleta e caçar Pokémon juntamente
