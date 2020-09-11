@@ -1,4 +1,6 @@
 # Meu primeiro README.md
+For english version, [click here](analudias-en.md).
+
 Olá, me chamo Ana Luísa e sou também conhecida como Analu.
 
 Meus hobbys:
