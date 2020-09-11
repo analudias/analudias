@@ -1,5 +1,5 @@
 # Meu primeiro README.md
-For english version, [click here](analudias-en.md).
+For english version, [click here](https://github.com/analudias/analudias-en).
 
 Olá, me chamo Ana Luísa e sou também conhecida como Analu.
 
