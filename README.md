@@ -5,8 +5,6 @@ Olá, me chamo Ana Luísa e sou também conhecida como Analu.
 
 Meus hobbies:
 - Andar de bicicleta
-- Caçar Pokémon
-- Andar de bicicleta e caçar Pokémon juntamente
 - Jogar video-game
   - Primeiro: Master-System
   - Atual: PS4
