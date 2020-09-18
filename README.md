@@ -15,4 +15,4 @@ E quando não estou codando, meus hoobies são:
   - Exceto terror
   - E os musicais sempre vão ter um espaço maior no meu coração <3
   
-Para mais informações, fiquem à vontade para conectar no meu [LinkedIn](https://www.linkedin.com/in/analudiastech/)!
+Se quiserem saber algo mais, fiquem à vontade para conectar no meu [LinkedIn](https://www.linkedin.com/in/analudiastech/)!
