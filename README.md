@@ -3,7 +3,9 @@ For english version, [click here](https://github.com/analudias/analudias-en).
 
 Olá, me chamo Ana Luísa e sou também conhecida como Analu.
 
-Meus hobbies:
+Atualmente, estou aprendendo [Java](https://www.udemy.com/course/java-curso-completo/) e [programação mobile](https://www.udemy.com/course/curso-completo-do-desenvolvedor-android/) com cursos da Udemy.
+
+E quando não estou codando, meus hoobies são:
 - Andar de bicicleta
 - Jogar video-game
   - Primeiro: Master-System
@@ -12,8 +14,5 @@ Meus hobbies:
   - De todos os gêneros
   - Exceto terror
   - E os musicais sempre vão ter um espaço maior no meu coração <3
-  
-Isso tudo acontece quando não estou codando!
-Atualmente, estou aprendendo [Java](https://www.udemy.com/course/java-curso-completo/) e [programação mobile](https://www.udemy.com/course/curso-completo-do-desenvolvedor-android/) com cursos da Udemy.
   
 Para mais informações, fiquem à vontade para conectar no meu [LinkedIn](https://www.linkedin.com/in/analudiastech/)!
