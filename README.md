@@ -3,7 +3,7 @@ For english version, [click here](https://github.com/analudias/analudias-en).
 
 Olá, me chamo Ana Luísa e sou também conhecida como Analu.
 
-Atualmente, estou aprendendo [Java](https://www.udemy.com/course/java-curso-completo/) e [programação mobile](https://www.udemy.com/course/curso-completo-do-desenvolvedor-android/) com cursos da Udemy e o bootcamp full-stack da [DevSuperior](https://www.linkedin.com/company/devsuperior/)
+Atualmente, estou aprendendo [Java](https://www.udemy.com/course/java-curso-completo/) e [programação mobile](https://www.udemy.com/course/curso-completo-do-desenvolvedor-android/) com cursos da Udemy e realizando o bootcamp full-stack da [DevSuperior](https://www.linkedin.com/company/devsuperior/)
 
 E quando não estou codando, meus hoobies são:
 - Andar de bicicleta
