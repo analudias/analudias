@@ -16,3 +16,5 @@ E quando não estou codando, meus hoobies são:
   - E os musicais sempre vão ter um espaço maior no meu coração <3
   
 Se quiserem saber algo mais, fiquem à vontade para conectar no meu [LinkedIn](https://www.linkedin.com/in/analudiastech/)!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analudias)](https://github.com/anuraghazra/github-readme-stats)
