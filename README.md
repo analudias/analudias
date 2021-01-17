@@ -12,6 +12,6 @@
 - 💻 Streamer na Twitch
 
 ## Minhas redes sociais:
-![https://raw.githubusercontent.com/analudias/analudias/master/images/linkedin-icon.png](https://www.linkedin.com/in/analudiastech/)
-![https://github.com/analudias/analudias/blob/master/images/twitch-icon.png?raw=true](https://www.twitch.tv/purplepizza92)
-![https://github.com/analudias/analudias/blob/master/images/twitter-icon.png?raw=true](https://twitter.com/_analudias)
+![ https://www.linkedin.com/in/analudiastech/](https://raw.githubusercontent.com/analudias/analudias/master/images/linkedin-icon.png)
+![https://www.twitch.tv/purplepizza92](https://github.com/analudias/analudias/blob/master/images/twitch-icon.png?raw=true)
+![https://twitter.com/_analudias](https://github.com/analudias/analudias/blob/master/images/twitter-icon.png?raw=true)
