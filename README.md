@@ -17,7 +17,7 @@
 [Client CRUD](https://github.com/analudias/ds-client)  
 [Cara ou Coroa](https://github.com/analudias/app-cara-coroa)  
 
-## Minhas redes sociais:
+## Minhas redes sociais
 [<img align="left" src="https://github.com/analudias/analudias/blob/master/images/linkedin-icon.png?raw=true" alt="linkedin" width="50px"/>](https://www.linkedin.com/in/analudiastech/)
 
 [<img align="left" src="https://github.com/analudias/analudias/blob/master/images/twitch-icon.png?raw=true" alt="twitch" width="50px"/>](https://www.twitch.tv/purplepizza92)
