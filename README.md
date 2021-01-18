@@ -3,7 +3,8 @@
 ## Sobre mim
 🎓 Graduada em Sistemas de Informação  
 ☕ Focada em aprender Java  
-📱 Amando o desenvolvimento mobile
+📱 Amante do desenvolvimento mobile  
+📚 Atualmente estudando Java com Spring Boot no bootcamp da DevSuperior
 
 ## Hobbies
 🚴 Amo andar de bicleta  
