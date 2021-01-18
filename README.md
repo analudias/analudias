@@ -1,10 +1,10 @@
 ### 👋 Olá, me chamo Ana Luísa e sou também conhecida como Analu.
 
 ## Sobre mim
-📚 Atualmente estudando Java com Spring Boot com a DevSuperior  
-📱 Amante do desenvolvimento mobile  
-☕ Focada em aprender Java  
 🎓 Graduada em Sistemas de Informação  
+☕ Focada em aprender Java  
+📲 Amante do desenvolvimento mobile  
+📚 Atualmente estudando Java com Spring Boot com a DevSuperior  
 
 ## Hobbies
 🚴 Amo andar de bicleta  
