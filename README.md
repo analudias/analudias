@@ -1,3 +1,5 @@
+[English version](https://github.com/analudias/analudias-en)
+
 ### 👋 Olá, me chamo Ana Luísa e sou também conhecida como Analu.
 
 ## Sobre mim
@@ -22,4 +24,4 @@
 
 [<img align="left" src="https://github.com/analudias/analudias/blob/master/images/twitch-icon.png?raw=true" alt="twitch" width="50px"/>](https://www.twitch.tv/purplepizza92)
 
-[<img align="left" src="https://github.com/analudias/analudias/blob/master/images/twitter-icon.png?raw=true" alt="linkedin" width="50px"/>](https://twitter.com/_analudias)
+[<img align="left" src="https://github.com/analudias/analudias/blob/master/images/twitter-icon.png?raw=true" alt="linkedin" width="50px"/>](https://twitter.com/_analudias)  
