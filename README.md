@@ -12,6 +12,7 @@
 🚴 Amo andar de bicleta  
 📺 Podem me chamar para ver séries  
 🎮 Jogadora de video-game desde a infância  
+🎼 Aprendendo violão e teclado
 
 ## Principais projetos
 [Pesquisa de mercado](https://github.com/analudias/sds1-pesquisa)  
